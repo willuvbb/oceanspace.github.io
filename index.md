@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Home
-description: Grace's Website
+description: Will's Website
 ---

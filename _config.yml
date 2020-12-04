@@ -1,6 +1,6 @@
 # Site settings
-title: oceanspace
-description: Grace Kim, Ph.D. 
+title: william-cunningham
+description: Will Cunningham
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -14,15 +14,15 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/oceanspace/
+github_url: https://github.com/willuvbb/
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/oceanspace/
+linkedin_url: https://www.linkedin.com/in/william-cunningham/
 pinterest_url:
-slack_url: 
+slack_url:
 twitter_url:
-email_url: 
+email_url:
 
 # Build settings
 markdown: kramdown
